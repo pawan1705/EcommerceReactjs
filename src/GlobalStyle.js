@@ -46,7 +46,6 @@ h4 {
    font-family: "Work Sans", sans-serif;
 
 }
-
 h1 {
   color: ${({ theme }) => theme.colors.heading};
   font-size: 6rem;
@@ -58,8 +57,7 @@ h1 {
    font-size: 4.4rem;
    font-weight: 300;
    white-space: normal;
-  
-  }
+ }
 
 h3 {
   font-size: 1.8rem;
@@ -168,7 +166,7 @@ input, textarea{
        html {
       font-size: 50%;
     }
-
+    
 .grid{
   gap: 3.2rem;
 }

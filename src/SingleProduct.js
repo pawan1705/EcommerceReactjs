@@ -1,7 +1,7 @@
 import styled from "styled-components";
-
-return <Wrapper></Wrapper>;
-
+const SingleProduct=()=>{
+return (<Wrapper>Single Product</Wrapper>);
+}
 const Wrapper = styled.section`
   .container {
     padding: 9rem 0;
